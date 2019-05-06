@@ -1,10 +1,5 @@
-[workspace]
-members = [
-    "minigrep",
-]
-
 [package]
-name = "rust-notes"
+name = "minigrep"
 version = "0.1.0"
 authors = ["F-12 <axis.whistle.import@gmail.com>"]
 edition = "2018"

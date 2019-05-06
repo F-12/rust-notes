@@ -7,6 +7,8 @@
 
 pub mod types;
 
+pub mod collections;
+
 #[cfg(test)]
 mod tests {
     #[test]
